@@ -4,8 +4,8 @@ city = 'Blr'
 experience = 4.6
 salary = 2000
 is_working = True
-fav_actor = 'Dhanush'
-fav_movie = 'Asuran'
+favoutire_actor = 'Dhanush'
+favoutire_movie = 'Asuran'
 bike = 'MT15'
 dream_company = 'Accenture'
 
@@ -15,8 +15,8 @@ print(city)
 print(experience)
 print(salary)
 print(is_working)
-print(fav_actor)
-print(fav_movie)
+print(favoutire_actor)
+print(favoutire_movie)
 print(bike)
 print(dream_company)
 
@@ -26,8 +26,8 @@ print(type(city))
 print(type(experience))
 print(type(salary))
 print(type(is_working))
-print(type(fav_actor))
-print(type(fav_movie))
+print(type(favoutire_actor))
+print(type(favoutire_movie))
 print(type(bike))
 print(type(dream_company))
 
@@ -37,7 +37,7 @@ print(isinstance(city, str))
 print(isinstance(experience, float))
 print(isinstance(salary, int))
 print(isinstance(is_working, bool))
-print(isinstance(fav_actor, str))
-print(isinstance(fav_movie, str))
+print(isinstance(favoutire_actor, str))
+print(isinstance(favoutire_movie, str))
 print(isinstance(bike , str))
 print(isinstance(dream_company, str))
